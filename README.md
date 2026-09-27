@@ -2,7 +2,7 @@
 
 > A clean, Coursera-style learning platform taking you from Python fundamentals to Production RAG, Autonomous Agents, and Cloud LLMOps in 16 weeks with curated Hindi masterclasses.
 
-🌐 **Live Demo:** [https://AI-track.vercel.app](https://AI-track.vercel.app)  
+🌐 **Live Demo:** [https://AI-track.vercel.app](https://ai-track-ten.vercel.app/)  
 🔑 **Access Password:** `Channu@12345`
 
 ---
